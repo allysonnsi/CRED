@@ -1,6 +1,6 @@
 
-import Sidebar from "@/components/Sidebar";
-import Card from "@/components/Card";
+import Sidebar from "../components/Sidebar";
+import Card from "../components/Card";
 
 export default function Home(){
   return (
